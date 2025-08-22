@@ -114,7 +114,7 @@ MOV [1006H],AX;
 RET
 ```
 ## Output
-<img width="872" height="915" alt="image" src="https://github.com/user-attachments/assets/5903de44-e18a-47c5-a907-54a851f203f6" />
+<img width="1917" height="860" alt="Screenshot 2025-08-22 100732" src="https://github.com/user-attachments/assets/062380e8-f172-478e-a96c-10643e5b97cb" />
 
 
 ## Result :
